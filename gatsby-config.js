@@ -10,6 +10,7 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Poff Development`,
+    description: `Poff Development is a contract resource in southern Arizona specializing in building and maintaining websites.`,
   },
   plugins: [
     {
