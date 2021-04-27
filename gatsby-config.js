@@ -29,7 +29,6 @@ module.exports = {
       options: {
         name: `Poff Development`,
         short_name: `PoffDev`,
-        description: `Web development contractor in southern Arizona`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
